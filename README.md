@@ -1,10 +1,10 @@
 # S2I TensorFlow Notebook
 
-<span style="color:red">
-NOTE: This repo is no longer maintained, we would be using the tensorflow-gpu package for tensorflow going further.  
-Please use the repo <a href="https://github.com/thoth-station/s2i-tensorflow-gpu-notebook">s2i-tensorflow-gpu-notebook</a> for issues and requests.
-</span>
+## Deprecated
 
+- **NOTE**: This repo is no longer maintained, we would be using the tensorflow-gpu package for tensorflow going further.  
+- Please use the repo [s2i-tensorflow-gpu-notebook](https://github.com/thoth-station/s2i-tensorflow-gpu-notebook) for issues and requests.
+---
 
 Custom Notebook built with Thoth s2i-minimal-notebook.
 
