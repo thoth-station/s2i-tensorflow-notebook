@@ -1,5 +1,11 @@
 # S2I TensorFlow Notebook
 
+<span style="color:red">
+NOTE: This repo is no longer maintained, we would be using the tensorflow-gpu package for tensorflow going further.  
+Please use the repo <a href="https://github.com/thoth-station/s2i-tensorflow-gpu-notebook">s2i-tensorflow-gpu-notebook</a> for issues and requests.
+</span>
+
+
 Custom Notebook built with Thoth s2i-minimal-notebook.
 
 This custom notebook contains [TensorFlow](https://www.tensorflow.org/) related packages install with minimal notebook for Data Science usage. This image can be directly used if user needed these package while using the minimal jupyter notebook.
